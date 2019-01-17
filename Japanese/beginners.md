@@ -61,7 +61,7 @@
 
 #### Examples
 
-- わたしはすしをごごろくじごろにたべます (watashi wa sushi o gogo rokuji goroni tabemasu) | I eat sushi at around 6 PM
+- わたしはすしをごごろくじごろにたべます (watashi wa sushi o gogo rokuji goroni tabemasu) | I eat sushi at around 6 PM
 
 ### Other
 
