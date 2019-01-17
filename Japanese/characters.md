@@ -6,7 +6,7 @@
 
 Hiragana (平仮名, ひらがな, Japanese pronunciation: [çiɾaɡana]) is a Japanese syllabary, one component of the Japanese writing system, along with katakana, kanji, and in some cases rōmaji (Latin script). It is a phonetic lettering system. The word hiragana literally means "ordinary" or "simple" kana ("simple" originally as contrasted with kanji).
 
-Source: https://en.wikipedia.org/wiki/Hiragana
+Source: <https://en.wikipedia.org/wiki/Hiragana>
 
 ### Monographs
 
@@ -41,9 +41,9 @@ Source: https://en.wikipedia.org/wiki/Hiragana
 
 Katakana (片仮名, かたかな, カタカナ, Japanese pronunciation: [katakana]) is a Japanese syllabary, one component of the Japanese writing system along with hiragana,[2] kanji, and in some cases the Latin script (known as rōmaji). The word katakana means "fragmentary kana", as the katakana characters are derived from components or fragments of more complex kanji.
 
-Source: https://en.wikipedia.org/wiki/Katakana
+Source: <https://en.wikipedia.org/wiki/Katakana>
 
-### Monographs
+### Katakana Monographs
 
 | | a | i | u | e | o |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -78,4 +78,4 @@ Source: https://en.wikipedia.org/wiki/Katakana
 
 Kanji (漢字; [kã̠ɴʑi]) are the adopted logographic Chinese characters that are used in the Japanese writing system.[1] They are used alongside the Japanese syllabic scripts hiragana and katakana. The Japanese term kanji for the Chinese characters literally means "Han characters".
 
-Source: https://en.wikipedia.org/wiki/Kanji
+Source: <https://en.wikipedia.org/wiki/Kanji>
