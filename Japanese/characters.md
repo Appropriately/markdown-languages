@@ -1,6 +1,14 @@
 # Characters
 
-[toc]
+- [Characters](#characters)
+  - [Hiragana | ひらがな](#hiragana--%E3%81%B2%E3%82%89%E3%81%8C%E3%81%AA)
+    - [Monographs](#monographs)
+    - [Diacritics](#diacritics)
+  - [Katakana | かたかな | カタカナ](#katakana--%E3%81%8B%E3%81%9F%E3%81%8B%E3%81%AA--%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A)
+    - [Katakana Monographs](#katakana-monographs)
+    - [Final Nasal Monograph](#final-nasal-monograph)
+    - [Monographs with Diacritics](#monographs-with-diacritics)
+  - [Kanji | 漢字](#kanji--%E6%BC%A2%E5%AD%97)
 
 ## Hiragana | ひらがな
 
