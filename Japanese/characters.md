@@ -11,7 +11,7 @@ Source: https://en.wikipedia.org/wiki/Hiragana
 ### Monographs
 
 | | a | i | u | e | o |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | ∅ | あ (a) | い (i) | う (u) | え (e) | お (o) |
 | K | か (ka) | き (ki) | く (ku) | け (ke) | こ (ko) |
 | S | さ (sa) | し (shi) | す (su) | せ (se) | そ (so) |
@@ -24,13 +24,13 @@ Source: https://en.wikipedia.org/wiki/Hiragana
 | W | わ (wa) |  |  |  | を (wo) |
 
 | | * |
-|---|---|
+|:---:|:---:|
 | n | ん |
 
 ### Diacritics
 
 | | a | i | u | e | o |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | G | が (ga) | ぎ (gi) | ぐ (gu) | げ (ge) | ご (go) |
 | Z | ざ (za) | じ (ji) | ず (zu) | ぜ (ze) | ぞ (zo) |
 | D | だ (da) | ぢ (ji) | づ (zu) | で (de) | ど (do) |
@@ -46,7 +46,7 @@ Source: https://en.wikipedia.org/wiki/Katakana
 ### Monographs
 
 | | a | i | u | e | o |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | ∅ | ア (a) | イ (i) | ウ (u) | エ (e) | オ (o) |
 | K | カ (ka) | キ (ki) | ク (ku) | ケ (ke) | コ (ko) |
 | S | サ (sa) | シ (shi) | ス (su) | セ (se) | ソ (so) |
@@ -61,13 +61,13 @@ Source: https://en.wikipedia.org/wiki/Katakana
 ### Final Nasal Monograph
 
 | | * |
-|---|---|
+|:---:|:---:|
 | n | ン |
 
 ### Monographs with Diacritics
 
 | | a | i | u | e | o |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | G | ガ (ga) | ギ (gi) | グ (gu) | ゲ (ge) | ゴ (go) |
 | Z | ザ (za) | ジ (ji) | ズ (zu) | ゼ (ze) | ゾ (zo) |
 | D | ダ (da) | ヂ (ji) | ヅ (zu) | デ (de) | ド (do) |
@@ -76,6 +76,6 @@ Source: https://en.wikipedia.org/wiki/Katakana
 
 ## Kanji | 漢字
 
-Kanji (漢字; [kã̠ɴʑi] About this soundlisten) are the adopted logographic Chinese characters that are used in the Japanese writing system.[1] They are used alongside the Japanese syllabic scripts hiragana and katakana. The Japanese term kanji for the Chinese characters literally means "Han characters".
+Kanji (漢字; [kã̠ɴʑi]) are the adopted logographic Chinese characters that are used in the Japanese writing system.[1] They are used alongside the Japanese syllabic scripts hiragana and katakana. The Japanese term kanji for the Chinese characters literally means "Han characters".
 
 Source: https://en.wikipedia.org/wiki/Kanji
