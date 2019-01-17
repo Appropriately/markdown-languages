@@ -47,7 +47,7 @@ Source: <https://en.wikipedia.org/wiki/Hiragana>
 
 ## Katakana | かたかな | カタカナ
 
-Katakana (片仮名, かたかな, カタカナ, Japanese pronunciation: [katakana]) is a Japanese syllabary, one component of the Japanese writing system along with hiragana,[2] kanji, and in some cases the Latin script (known as rōmaji). The word katakana means "fragmentary kana", as the katakana characters are derived from components or fragments of more complex kanji.
+Katakana (片仮名, かたかな, カタカナ, Japanese pronunciation: [katakana]) is a Japanese syllabary, one component of the Japanese writing system along with hiragana, kanji, and in some cases the Latin script (known as rōmaji). The word katakana means "fragmentary kana", as the katakana characters are derived from components or fragments of more complex kanji.
 
 Source: <https://en.wikipedia.org/wiki/Katakana>
 
@@ -84,6 +84,6 @@ Source: <https://en.wikipedia.org/wiki/Katakana>
 
 ## Kanji | 漢字
 
-Kanji (漢字; [kã̠ɴʑi]) are the adopted logographic Chinese characters that are used in the Japanese writing system.[1] They are used alongside the Japanese syllabic scripts hiragana and katakana. The Japanese term kanji for the Chinese characters literally means "Han characters".
+Kanji (漢字; [kã̠ɴʑi]) are the adopted logographic Chinese characters that are used in the Japanese writing system. They are used alongside the Japanese syllabic scripts hiragana and katakana. The Japanese term kanji for the Chinese characters literally means "Han characters".
 
 Source: <https://en.wikipedia.org/wiki/Kanji>
