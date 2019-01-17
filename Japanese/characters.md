@@ -48,15 +48,15 @@ Source: https://en.wikipedia.org/wiki/Katakana
 | | a | i | u | e | o |
 |---|---|---|---|---|---|
 | ∅ | ア (a) | イ (i) | ウ (u) | エ (e) | オ (o) |
-| K |  |  |  |  |  |
-| S |  |  |  |  |  |
-| T |  |  |  |  |  |
-| N |  |  |  |  |  |
-| H |  |  |  |  |  |
-| M |  |  |  |  |  |
-| Y |  |  |  |  |  |
-| R |  |  |  |  |  |
-| W |  |  |  |  |  |
+| K | カ (ka) | キ (ki) | ク (ku) | ケ (ke) | コ (ko) |
+| S | サ (sa) | シ (shi) | ス (su) | セ (se) | ソ (so) |
+| T | タ (ta) | チ (chi) | ツ (tsu) | テ (te) | ト (to) |
+| N | ナ (na) | ニ (ni) | ヌ (nu) | ネ (ne) | ノ (no) |
+| H | ハ (ha) | ヒ (hi) | フ (fu) | ヘ (he) | ホ (ho) |
+| M | マ (ma) | ミ (mi) | ム (mu) | メ (me) | モ (mo) |
+| Y | ヤ (ya) |  | ユ (yu) |  | ヨ (yo) |
+| R | ラ (ra) | リ (ri) | ル (ru) | レ (re) | ロ (ro) |
+| W | ワ (wa) |  |  |  | ヲ (wo) |
 
 ### Final Nasal Monograph
 
@@ -68,11 +68,11 @@ Source: https://en.wikipedia.org/wiki/Katakana
 
 | | a | i | u | e | o |
 |---|---|---|---|---|---|
-| G |  |  |  |  |  |
-| Z |  |  |  |  |  |
-| D |  |  |  |  |  |
-| B |  |  |  |  |  |
-| P |  |  |  |  |  |
+| G | ガ (ga) | ギ (gi) | グ (gu) | ゲ (ge) | ゴ (go) |
+| Z | ザ (za) | ジ (ji) | ズ (zu) | ゼ (ze) | ゾ (zo) |
+| D | ダ (da) | ヂ (ji) | ヅ (zu) | デ (de) | ド (do) |
+| B | バ (ba) | ビ (bi) | ブ (bu) | ベ (be) | ボ (bo) |
+| P | パ (pa) | ピ (pi) | プ (pu) | ペ (pe) | ポ (po) |
 
 ## Kanji | 漢字
 
