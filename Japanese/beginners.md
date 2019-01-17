@@ -72,7 +72,7 @@
 
 ## Numbers
 
-1. いち (ichi)
+1. いち (ichi)
 2. に (ni)
 3. さん (san)
 4. し (shi)｜よん (yon)｜よ (yo)
@@ -82,13 +82,13 @@
 8. はち (hachi)
 9. きゅう (kyuu)｜く (ku)
 10. じゅう (juu)
-11. じゅういち (juuichi)
+11. じゅういち (juuichi)
 
 ## Time
 
 ### Example
 
-- ごごじゅうじごろ (gogojuujigoro) | Around 10:30PM
+- ごごじゅうじごろ (gogojuujigoro) | Around 10:30PM
 
 ## Useful words
 
