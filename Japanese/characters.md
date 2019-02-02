@@ -8,7 +8,7 @@
     - [Katakana Monographs](#katakana-monographs)
     - [Final Nasal Monograph](#final-nasal-monograph)
     - [Monographs with Diacritics](#monographs-with-diacritics)
-  - [Kanji | 漢字](#kanji--%E6%BC%A2%E5%AD%97)
+  - [Kanji | 漢字 | かんじ](#kanji--%E6%BC%A2%E5%AD%97--%E3%81%8B%E3%82%93%E3%81%98)
 
 ## Hiragana | ひらがな
 
@@ -82,8 +82,23 @@ Source: <https://en.wikipedia.org/wiki/Katakana>
 | B | バ (ba) | ビ (bi) | ブ (bu) | ベ (be) | ボ (bo) |
 | P | パ (pa) | ピ (pi) | プ (pu) | ペ (pe) | ポ (po) |
 
-## Kanji | 漢字
+## Kanji | 漢字 | かんじ
 
 Kanji (漢字; [kã̠ɴʑi]) are the adopted logographic Chinese characters that are used in the Japanese writing system. They are used alongside the Japanese syllabic scripts hiragana and katakana. The Japanese term kanji for the Chinese characters literally means "Han characters".
 
 Source: <https://en.wikipedia.org/wiki/Kanji>
+
+The dictionary has about 5000, but the average Japanese person know 3000.
+
+| かんじ | おんよみ (meaning) | たんご (vocabulary) |
+|:---:|:---:|:---:|
+| 一 | いち　(one), いつ, ひと | 一時 (いちじ) one o'clock, 一月 (いちがつ) January, 一人 (ひとり) One person / alone |
+| ニ | に (two) | , ニ月 (にがつ) February, |
+| 三 | さん (three) | , 三月 (さんがつ) March, |
+| 四 | し, よん (four) | , 四月 (しがつ) April, |
+| 五 | ご (five) | , 五月 (ごがつ) May, |
+| 六 | ろく (six) | , 六月 (ろくがつ) June, |
+| 七 | しち, なな (seven) | , 七月 (しちがつ) July, |
+| 八 | はち (eight) | , 八月 (はちがつ) August, |
+| 九 | きゅう (nine) | , 九月 (きゅうがつ) September, |
+| 十 | じゅう (ten) | , 十月 (じゅうがつ) October, |
